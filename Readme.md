@@ -1,6 +1,7 @@
 # Git-On-Mac
 Readme file for Git-On-Mac
 
+Today: 08/16/2017
 
 Quick setup — if you’ve done this kind of thing before
  Set up in Desktop	or	 HTTPS  SSH
