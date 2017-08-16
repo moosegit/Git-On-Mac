@@ -51,4 +51,3 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 1 insertion(+)
  create mode 100644 Readme.md
-
