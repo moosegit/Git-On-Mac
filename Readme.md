@@ -26,12 +26,16 @@ git push -u origin master
 …or push an existing repository from the command line
 
 git remote add origin https://github.com/moosegit/Git-On-Mac.git
+
 git push -u origin master
 
 Mac:Git-On-Mac phil$ git add README.md 
+
 Mac:Git-On-Mac phil$ git commit -m "First Commit"
+
 [master (root-commit) 8ec4537] First Commit
- Committer: Name  <email@address.com>
+
+Committer: Name  <email@address.com>
  
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
