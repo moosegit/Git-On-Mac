@@ -23,10 +23,11 @@ git push -u origin master
 git remote add origin https://github.com/moosegit/Git-On-Mac.git
 git push -u origin master
 
-PhilsMacBookAir:Git-On-Mac phil$ git add README.md 
-PhilsMacBookAir:Git-On-Mac phil$ git commit -m "First Commit"
+Mac:Git-On-Mac phil$ git add README.md 
+Mac:Git-On-Mac phil$ git commit -m "First Commit"
 [master (root-commit) 8ec4537] First Commit
- Committer: Phil <phil@PhilsMacBookAir.local>
+ Committer: Name  <email@address.com>
+ 
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
 You can suppress this message by setting them explicitly. Run the
