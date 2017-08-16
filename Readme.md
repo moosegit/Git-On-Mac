@@ -11,10 +11,15 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 …or create a new repository on the command line
 
 echo "# Git-On-Mac" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/moosegit/Git-On-Mac.git
+
 git push -u origin master
 
 
