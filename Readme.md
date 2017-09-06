@@ -30,9 +30,9 @@ git remote add origin https://github.com/moosegit/Git-On-Mac.git
 
 git push -u origin master
 
-Mac:Git-On-Mac phil$ git add README.md 
+Mac:Git-On-Mac$ git add README.md 
 
-Mac:Git-On-Mac phil$ git commit -m "First Commit"
+Mac:Git-On-Mac$ git commit -m "First Commit"
 
 [master (root-commit) 8ec4537] First Commit
 
